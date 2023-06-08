@@ -1,0 +1,8 @@
+
+
+*.css linguist-detectable=true
+*.js linguist-detectable=false  
+*.scss linguist-detectable=false  
+*.less inguist-detectable=false
+*.html inguist-detectable=false
+*.sass inguist-detectable=false
